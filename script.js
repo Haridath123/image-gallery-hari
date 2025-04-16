@@ -1,10 +1,10 @@
 // Array of image filenames (make sure these exist in your repo under /images/)
 const images = [
-  'DSCN4317.jpg',
-  'DSCN4830.jpg',
-  'DSCN5329.jpg',
-  'IMGP0690.jpg',
-  'DSCN4043.jpg'
+  'DSCN4317.JPG',
+  'DSCN4830.JPG',
+  'DSCN5329.JPG',
+  'IMGP0690.JPG',
+  'DSCN4043.JPG'
 ];
 
 const gallery = document.getElementById('gallery');
